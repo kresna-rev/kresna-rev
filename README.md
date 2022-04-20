@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤙, I'm Krsna 💔</h1>
 <h4 align="center">A passionate full-stack web developer from Indonesia</h4>
 
-<h3 align="left">Front-end :</h3>
+<h4 align="left">Front-end :</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -32,7 +32,7 @@
     />
   </a>
 </p>
-<h3 align="left">Back-end :</h3>
+<h4 align="left">Back-end :</h4>
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
@@ -59,7 +59,7 @@
     />
   </a>
 </p>
-<h3 align="left">Framework :</h3>
+<h4 align="left">Framework :</h4>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -87,6 +87,18 @@
   </a>
 </p>
 
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+  <a href="https://instagram.com/abcdefghij__k__lmnopqrstuvwxyz" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="abcdefghij__k__lmnopqrstuvwxyz"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
 <p>
   <img
     align="center"
@@ -111,14 +123,3 @@
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/abcdefghij__k__lmnopqrstuvwxyz" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="abcdefghij__k__lmnopqrstuvwxyz"
-      height="30"
-      width="40"
-  /></a>
-</p>
