@@ -31,16 +31,6 @@
       height="40"
     />
   </a>
-  <p align="right">
-    <a href="https://kresna-rev.github.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://kresna-rev.github.io/img/instadp_kr0_0sx_full_size.jpg"
-        alt="html5"
-        width="480"
-        height="480"
-      />
-    </a>
-  </p>
 </p>
 <h4 align="left">Back-end :</h4>
 <p align="left">
