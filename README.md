@@ -1,8 +1,5 @@
-<h1 align="center">Hello 🤙, I'm Krsna</h1>
-<h3 align="center">A passionate full-stack web developer from Indonesia</h3>
-<h3 align="left">
-  🐰🐶🐹🍑🦄🐧🦅🦁🍞
-</h3>
+<h1 align="center">Hello 🤙, I'm Krsna 💔</h1>
+<h4 align="center">A passionate full-stack web developer from Indonesia</h4>
 
 <h3 align="left">Front-end :</h3>
 <p align="left">
