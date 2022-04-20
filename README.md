@@ -1,6 +1,15 @@
 <h1 align="center">Hello 🤙, I'm Krsna 💔</h1>
 <h4 align="center">A passionate full-stack web developer from Indonesia</h4>
 
+<a align="right" href="https://kresna-rev.github.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://kresna-rev.github.io/img/instadp_kr0_0sx_full_size.jpg"
+    alt="html5"
+    width="40"
+    height="40"
+  />
+</a>
+
 <h4 align="left">Front-end :</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
