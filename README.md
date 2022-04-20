@@ -6,11 +6,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kresna-rev&show_icons=true&locale=en&layout=compact" alt="kresna-rev" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&locale=en" alt="kresna-rev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&" alt="kresna-rev" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abcdefghij__k__lmnopqrstuvwxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abcdefghij__k__lmnopqrstuvwxyz" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&locale=en" alt="kresna-rev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&" alt="kresna-rev" /></p>
