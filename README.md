@@ -1,4 +1,4 @@
-![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)
+![](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)
 
 <h2 align="center">Hello 👋, I'm Kresna🤖</h2>
 <h3 align="center">Hello World🌏!!! for everything 🔥🔥</h3>
