@@ -1,3 +1,5 @@
+![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)
+
 <h2 align="center">Hello 👋, I'm Kresna🤖</h2>
 <h3 align="center">Hello World🌏!!! for everything 🔥🔥</h3>
 
@@ -37,11 +39,19 @@
 <p>
 &nbsp;
 &nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&locale=en" alt="kresna-rev" />
-</p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&theme=radical)
+
+</p>
 <p>
 &nbsp;
 &nbsp;
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&" alt="kresna-rev" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kresna-rev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+<p>
+&nbsp;
+&nbsp;
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&theme=radical" alt="kresna-rev" />
 </p>
