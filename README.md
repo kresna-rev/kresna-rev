@@ -36,22 +36,10 @@
 </p>
 </h4>
 
-<p>
-&nbsp;
-&nbsp;
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&theme=radical)
-
-</p>
-<p>
-&nbsp;
-&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kresna-rev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 <p>
-&nbsp;
-&nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&theme=radical" alt="kresna-rev" />
 </p>
