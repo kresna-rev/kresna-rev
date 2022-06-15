@@ -1,45 +1,51 @@
-![](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)![icons8-github-100](https://user-images.githubusercontent.com/98457577/170729077-1413ca82-1286-47e6-a37a-3e5e09d23238.png)
+<div id="header" align="center">
+  <p><b>"Robin-chwan"</b></p>
+  <img src="https://media2.giphy.com/media/GKnZTd6I0JhzG/giphy.gif?cid=6c09b952d9fb8a52a6c613c27afc9d9e597256dd78278cd6&rid=giphy.gif&ct=s" width="100" />
 
-<h2 align="center">Hello 👋, I'm Kresna🤖</h2>
-<h3 align="center">Hello World🌏!!! for everything 🔥🔥</h3>
+  ![count](https://komarev.com/ghpvc/?username=kresna-rev&style=for-the-badge&label=views&color=ff69b4) <a href="https://kresna-rev.github.io/" target="_blank"> [![portfolio](https://img.shields.io/badge/MY_PORTFOLIO-000?style=for-the-badge&logo=kongregate&logoColor=grey&color=ff69b4)](https://kresna-rev.github.io/) </a> [![](https://img.shields.io/badge/Awikwok%20Banget-000?style=for-the-badge&logo=github&logoColor=fff&color=ff69b4)](https://kresna-rev.github.io/) [![id](https://img.shields.io/badge/Indonesia-000?style=for-the-badge&logo=google-maps&logoColor=ff69b4&color=grey)](https://kresna-rev.github.io/)
+    
+</div>
 
+
+<div id="title" align="center">
+  <h1>Hi 👋, I'm Kresna</h1>
+  <p>I'm a person who is interested in T-Rex 🦖.</p>
+  <p>#Hello_World!🌏</p>
+</div>
 &nbsp;
-<h4 align="left">🔗 Links</h4>
 
-[![portfolio](https://img.shields.io/badge/MY_PORTFOLIO-000?style=for-the-badge&logo=kongregate&logoColor=black&color=pink)](https://kresna-rev.github.io/)
+<div id="social" align="left">
+  <b>🔎 Find me on: </b>
+  <a href="https://instagram.com/abcdefghij__k__lmnopqrstuvwxyz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abcdefghij__k__lmnopqrstuvwxyz" height="30" width="40" />
+  </a>
+</div>
+&nbsp;
 
+<div id="language" align="right">
+  <p><b>⚙️ Language and Tool's: </b></p>
+  
+  <div id="img">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
+  </div
 
-<h4 align="left">🔎 Find me on:</h4>
-<p align="left">
-  <a href="https://instagram.com/abcdefghij__k__lmnopqrstuvwxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abcdefghij__k__lmnopqrstuvwxyz" height="30" width="40" /></a>
-</p>
+</div>
+&nbsp;
 
-<h4 align="left">🔤 Languages I use:</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-</p>
+<div align="center"><b>📊 My Statistics</b></div>
+&nbsp;
+<div id="stats" align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kresna-rev&layout=compact&theme=radical)
 
-<h4 align="left">💾 Databases:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-</p>
+  ![krs GitHub stats](https://github-readme-stats.vercel.app/api?username=kresna-rev&layout=compact&show_icons=true&theme=radical)
 
-<h4 align="left">🌐 Frameworks I use:</h4>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
-</p>
-</h4>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kresna-rev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kresna-rev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kresna-rev&theme=radical" alt="kresna-rev" />
-</p>
+</div>
