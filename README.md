@@ -9,7 +9,7 @@
 
 <div id="title" align="center">
   <h1>Hi 👋, I'm Kresna</h1>
-  <p>I'm a person who is interested in T-Rex 🦖.</p>
+  <p>I'm a person who is interested in all about Korean 🇰🇷 and Japanese 🇯🇵.</p>
   <p>#Hello_World!🌏</p>
 </div>
 &nbsp;
