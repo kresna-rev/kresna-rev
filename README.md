@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <p><b>"Robin-chwan"</b></p>
-  <img src="https://media2.giphy.com/media/GKnZTd6I0JhzG/giphy.gif?cid=6c09b952d9fb8a52a6c613c27afc9d9e597256dd78278cd6&rid=giphy.gif&ct=s" width="100" />
+  <p><b>"Anyeoong...👋"</b></p>
+  <img src="https://media2.giphy.com/media/3ofT5FBC2Y6i7ie8zm/giphy.gif?cid=6c09b95224635b1aab80ca31cfa865e9a07923f120dbda8b&rid=giphy.gif&ct=g" width="330" />
+  <P>
 
   ![count](https://komarev.com/ghpvc/?username=kresna-rev&style=for-the-badge&label=views&color=ff69b4) <a href="https://kresna-rev.github.io/" target="_blank"> [![portfolio](https://img.shields.io/badge/MY_PORTFOLIO-000?style=for-the-badge&logo=kongregate&logoColor=grey&color=ff69b4)](https://kresna-rev.github.io/) </a> [![awk](https://img.shields.io/badge/Awikwok%20Banget-000?style=for-the-badge&logo=github&logoColor=fff&color=ff69b4)](https://kresna-rev.github.io/) [![id](https://img.shields.io/badge/Indonesia-000?style=for-the-badge&logo=google-maps&logoColor=ff69b4&color=grey)](https://kresna-rev.github.io/)
-    
 </div>
 
 
