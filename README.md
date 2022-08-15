@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi 👋, I'm Kresna</h1>
-  <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=82a1493b2fpvxegzwpmec5yt42biwp42r338nswkqmvrvpnb&rid=giphy.gif&ct=s" width="330" />
+  <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=82a1493b2fpvxegzwpmec5yt42biwp42r338nswkqmvrvpnb&rid=giphy.gif&ct=s" width="200" />
   <P>
 
   ![count](https://komarev.com/ghpvc/?username=kresna-rev&style=for-the-badge&label=views&color=ff69b4) <a href="https://kresna-rev.github.io/" target="_blank"> [![portfolio](https://img.shields.io/badge/MY_PORTFOLIO-000?style=for-the-badge&logo=kongregate&logoColor=grey&color=ff69b4)](https://kresna-rev.github.io/) </a> [![awk](https://img.shields.io/badge/Awikwok%20Banget-000?style=for-the-badge&logo=github&logoColor=fff&color=ff69b4)](https://kresna-rev.github.io/) [![id](https://img.shields.io/badge/Indonesia-000?style=for-the-badge&logo=google-maps&logoColor=ff69b4&color=grey)](https://kresna-rev.github.io/)
