@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media4.giphy.com/media/l0IpXeNzGsDHZKFUc/giphy.webp?cid=6c09b9528caa968f7771339568f248d7ecb57227cd08ebed&rid=giphy.webp&ct=g" width="500" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR5NWozZ3JvdHd1eXg4cHNpd3dnMzZjd2ZqYTc5Z2Qyb2R3aDVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmZOBDYBcmWK4/200.webp" width="500" />
   <P>
 
   ![count](https://komarev.com/ghpvc/?username=kresna-rev&style=for-the-badge&label=view&color=000000) <a href="https://kresna-rev.github.io/" target="_blank"> [![portfolio](https://img.shields.io/badge/crash</>-000?style=for-the-badge&logo=android&logoColor=fff&color=000000)](https://kresna-rev.github.io/) </a> [![awk](https://img.shields.io/badge/Awikwok%20Banget-000?style=for-the-badge&logo=numpy&logoColor=fff&color=000000)](https://kresna-rev.github.io/) [![id](https://img.shields.io/badge/Somewhere,_ID-000?style=for-the-badge&logo=google-maps&logoColor=ffffff&color=000000)](https://kresna-rev.github.io/)
